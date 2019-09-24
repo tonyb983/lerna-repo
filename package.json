@@ -2,10 +2,10 @@
   "name": "root",
   "private": true,
   "devDependencies": {
-    "@nestjs/testing": "6.5.3",
+    "@nestjs/testing": "6.7.2",
     "@types/express": "4.17.1",
-    "@types/jest": "24.0.17",
-    "@types/node": "12.7.2",
+    "@types/jest": "24.0.18",
+    "@types/node": "12.7.7",
     "@types/supertest": "2.0.8",
     "@typescript-eslint/eslint-plugin": "^2.3.1",
     "@typescript-eslint/parser": "^2.3.1",
@@ -17,12 +17,12 @@
     "lerna": "^3.16.4",
     "prettier": "^1.18.2",
     "supertest": "4.0.2",
-    "ts-jest": "24.0.2",
-    "ts-node": "8.3.0",
-    "tsc-watch": "2.4.0",
-    "tsconfig-paths": "3.8.0",
-    "tslint": "5.18.0",
-    "typescript": "3.5.3"
+    "ts-jest": "24.1.0",
+    "ts-node": "8.4.1",
+    "tsc-watch": "4.0.0",
+    "tsconfig-paths": "3.9.0",
+    "tslint": "5.20.0",
+    "typescript": "3.6.3"
   },
   "dependencies": {
     "client": "file:packages\\client",
