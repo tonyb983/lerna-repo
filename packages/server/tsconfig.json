@@ -1,6 +1,9 @@
 {
   "extends": "../../tsconfig.base",
   "compilerOptions": {
+    "lib": [
+      "esnext"
+    ],
     "removeComments": true,
     "sourceMap": true,
     "outDir": "./dist",
